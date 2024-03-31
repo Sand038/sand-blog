@@ -1,4 +1,4 @@
-import { Route, BrowserRouter as Router, Switch } from 'react-router-dom/cjs/react-router-dom.min';
+import { Route, BrowserRouter as Router, Switch } from 'react-router-dom';
 import BlogDetails from './BlogDetails';
 import Create from './Create';
 import Home from './Home';
